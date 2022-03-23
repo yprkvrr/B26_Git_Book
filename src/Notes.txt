@@ -1,5 +1,10 @@
-this is edtor notes for the book so far
+this is editor notes for the book so far
 
 chapter one is good 
 
 keep working on chapter 2
+
+more suggestions 
+add these things:
+more fun
+more java
